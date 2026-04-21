@@ -1,0 +1,3 @@
+[submodule "CMBAnalysis_SummerSchool"]
+	path = CMBAnalysis_SummerSchool
+	url = https://github.com/CMB-S4/CMBAnalysis_SummerSchool.git
