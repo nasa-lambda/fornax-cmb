@@ -1,3 +1,6 @@
 [submodule "CMBAnalysis_SummerSchool"]
 	path = CMBAnalysis_SummerSchool
 	url = https://github.com/CMB-S4/CMBAnalysis_SummerSchool.git
+[submodule "pixell_tutorials"]
+	path = pixell_tutorials
+	url = https://github.com/simonsobs/pixell_tutorials.git
