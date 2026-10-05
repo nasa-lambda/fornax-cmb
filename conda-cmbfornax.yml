@@ -11,4 +11,4 @@ dependencies:
   - scipy
   - jupyterlab
   - pixell
-prefix: /Users/njmille2/miniforge3/envs/cmb-fornax
+  - https://lambda.gsfc.nasa.gov/data/conda-channel::lambdaquery
