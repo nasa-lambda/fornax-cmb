@@ -1,0 +1,14 @@
+name: cmb-fornax
+channels:
+  - conda-forge
+dependencies:
+  - emcee
+  - healpy
+  - astropy
+  - python=3.14
+  - matplotlib
+  - numpy
+  - scipy
+  - jupyterlab
+  - pixell
+prefix: /Users/njmille2/miniforge3/envs/cmb-fornax
